@@ -15,10 +15,10 @@ first_pair = second_currency + base_currency  # Format: XXBTUSDT
 
 # --- Trading Parameters ---
 # Percentage of full amount to trade (e.g., 0.999 means 99.9% of the full amount)
-percentage_of_full_amount = 0.97  # Range: 0 (0%) to 1 (100%)
+percentage_of_full_amount = 0.98  # Range: 0 (0%) to 1 (100%)
 
 # Desired profit threshold to trigger a trade
-threshold_profit = 0.05  # Example: 0.02 for 2%
+threshold_profit = 0.03  # Example: 0.02 for 2%
 
 # Interval (in seconds) to check orders on the exchange
 check_order_interval = 0.01  # Example: 0.01 for 10 milliseconds
